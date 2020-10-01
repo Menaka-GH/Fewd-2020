@@ -6,7 +6,7 @@ h1{
 }
 /*desktop*/
 @media only screen and (min-width: 900px){
-    .welcome{
+    .heading{
     color:red;
     }
     }
