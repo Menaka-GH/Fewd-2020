@@ -4,6 +4,13 @@ h1{
 .heading{
     color: chartreuse;
 }
+.center_img{
+    margin: auto;
+    width: 70%;
+    padding: 20px;
+    background-color: aqua;
+
+}
 /*desktop*/
 @media only screen and (min-width: 900px){
     .heading{
